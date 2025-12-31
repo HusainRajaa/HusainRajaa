@@ -15,21 +15,7 @@
 
 ## 🚀 About Me
 
-```python
-class HusainRaja:
-    def __init__(self):
-        self.name = "Husain Raja"
-        self.college = "COEP Technological University"
-        self.role = "Backend Developer & Full Stack Engineer"
-        self.languages = ["Python", "TypeScript", "JavaScript", "C++", "Java"]
-        self.interests = ["Backend Architecture", "API Design", "System Design", "Databases"]
-        self.achievements = ["🏆 SIH'24 Winner", "🥈 SIH'25 Finalist"]
-        self.currently_working_on = "Building scalable backend systems"
-        self.fun_fact = "I turn coffee into clean APIs ☕→🔌"
-  
-    def get_daily_routine(self):
-        return ["Design", "Code", "Test", "Deploy", "Optimize", "Repeat"]
-```
+
 
 ---
 
