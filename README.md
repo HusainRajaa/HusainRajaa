@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![HusainRajaa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HusainRajaa&show_icons=true&theme=dark)
+
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=HusainRajaa&theme=dark)
 
