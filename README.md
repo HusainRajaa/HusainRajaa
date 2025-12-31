@@ -24,12 +24,11 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusainRajaa&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HusainRajaa&theme=default&hide_border=true" height="150"/>
-</p>
+![HusainRajaa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HusainRajaa&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=HusainRajaa&theme=dark)
 
 ---
 
