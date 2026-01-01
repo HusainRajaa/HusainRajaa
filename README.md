@@ -18,7 +18,7 @@
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
 | [SAR Image Colorization](https://github.com/HusainRajaa/SAR_image_Colorization_SIH-4)               | Satellite imagery processing with AI      |
 | [Cow &amp; Buffalo Breed Recognition](https://github.com/HusainRajaa/Quantization_of_PytorchModels) | INT8 quantized model for edge deployment  |
-| [FIR Lodging Platform](https://github.com/HusainRajaa/)                                             | Blockchain-based decentralized FIR system |
+| [FIR Lodging Platform](https://github.com/HusainRajaa/FIR_Lodging_system)                           | Blockchain-based decentralized FIR system |
 | [Splitwise Advanced](https://github.com/HusainRajaa/Splitwise_advanced)                             | Smart expense splitting application       |
 | [COEP Lost &amp; Found](https://github.com/HusainRajaa/COEP_Lost-Found)                             | Campus lost & found management            |
 
