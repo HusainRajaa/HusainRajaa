@@ -1,6 +1,6 @@
 # Hi, I'm Husain Raja 👋
 
-**Backend Developer | Full Stack Engineer**
+**Backend Developer 
  | COEP Technological University, Pune
 
 ---
